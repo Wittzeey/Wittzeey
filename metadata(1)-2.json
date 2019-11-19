@@ -1,0 +1,19 @@
+{
+  "albumData": {
+    "title": "2018-05-12",
+    "description": "",
+    "access": "protected",
+    "location": "",
+    "date": {
+      "timestamp": "1526161694",
+      "formatted": "12 May 2018, 21:48:14 UTC"
+    },
+    "geoData": {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "altitude": 0.0,
+      "latitudeSpan": 0.0,
+      "longitudeSpan": 0.0
+    }
+  }
+}
